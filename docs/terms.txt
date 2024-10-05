@@ -1,0 +1,7 @@
+https://medium.com/analytics-vidhya/how-to-filter-noise-with-a-low-pass-filter-python-885223e5e9b7
+---
+Nyquist Theorem - an analog signal can be digitized without aliasing error if and only if the sampling rate is greater than or equal to twice the highest frequency component in a given signal.
+Sampling Rate - The number of samples taken in seconds.
+Sampling Period - The time in seconds of one rate.
+Total Samples - Rate * Period
+Signal Frequency - 
